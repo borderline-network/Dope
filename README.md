@@ -2,6 +2,8 @@
 
 A unique tag-based theme to arrange your publications into collections. Keep organized and let your readers explore your publications with ease. Completely free and fully responsive, released under the MIT license.
 
+### This was forked to provide a clean, established online publication UI to the borderline project
+
 **Demo: https://dope.ghost.io**
 
 &nbsp;
